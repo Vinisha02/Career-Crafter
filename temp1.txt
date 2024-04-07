@@ -1,0 +1,77 @@
+___________________________________________________________________________________________________________________________________________________________________________________________
+                                                                                                                                                                                        
+                                                                              VINISHA CHOUDHARY
+____________________________________________________________________________________________________________________________________________________________________________________________
+                                                                                                                                                                                        
+                      Email: vinisha.choudhary02@gmail.com		Phone Number: 7877389325		LinkedIn: https://www.linkedin.com/in/vinisha-choudhary-285618245/		GitHub: https://github.com/Vinisha02
+
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+                                                                              EDUCATION
+-> Degree	:	B.TECh
+University	:	Banasthali Vidyapith
+GPA		:	9.5
+Year of Graduation:	2026
+-> Degree	:	Class 12
+University	:	Tagore International School
+GPA		:	95.6
+Year of Graduation:	2022
+-> Degree	:	Class 10
+University	:	Tagore International School
+GPA		:	94.6
+Year of Graduation:	2020
+
+________________________________________________________________________________________________________________________________________________________________________________________
+
+                                                                                WORK EXPERIENCE
+-> Role		:	Web Developer
+Company		:	Octanet
+Timeline	:	June 2023
+Description	:	Octanet is a startup company that provides IT services, such as web development. I worked as a frontend designer
+
+________________________________________________________________________________________________________________________________________________________________________________________
+
+                                                                                   PROJECTS
+-> Project Name		: Devboard
+Tech Stack		:  Tailwind CSS, Svelte, and SvelteKit
+Timeline		: July 2023 - February 2024
+Description		: As a Frontend Developer for Devboard, Crafted UI using TailwindCSS and Svelte from the m the Figma designs MockUp and added functionality using Svelte JS and SvelteKit. - Devboard is a platform facilitating open-source collaborators to get rewards from the bounties.
+-> Project Name		: Twitter Clone
+Tech Stack		:  HTML, CSS
+Timeline		: June 2023
+Description		: -  Created from scratch the front end of a Twitter website. It is structured in HTML and designed with the help of CSS. - It includes a home page where you can see the latest posts from the people you follow an Explore page a notification page and a profile page.
+
+_________________________________________________________________________________________________________________________________________________________________________________________
+
+                                                                             POSITION OF RESPONSIBILITY
+-> Position of Responsibility	:	Technical Team Member
+Club Name		:	 Algobyte, Banasthali Vidyapith
+Year			:	2023
+Description		:	As a Technical Team Member, I collaborated to strengthen the open-source community in the college and raise technical awareness among students. I coordinated and contributed to the successful execution of 3+ technical events, including hosting one with over 150 participants.
+
+________________________________________________________________________________________________________________________________________________________________________________________
+
+                                                                               TECHNICAL SKILLS
+-> Languages: C(Beginner), C++ (Intermediate
+-> Developer Tools: HTML, CSS, Javascript
+-> Courseworks: Data Structures and Algorithms, Database Management Systems
+-> Databases :MySQL (Beginner)
+
+_______________________________________________________________________________________________________________________________________________________________________________________
+
+                                                                                 SOFT SKILLS
+-> Collaboration skills, Adaptability, Team Work
+
+_______________________________________________________________________________________________________________________________________________________________________________________
+
+                                                                                 ACHIEVEMENTS
+-> GHC Scholar The GHC is the world's largest gathering of women technologists.
+-> Pragati Scholar This is a government scholarship program implemented by the AICTE
+-> Keep India Smiling Scholar This program for Engineering Courses is provided by Colgate
+-> JK Lakshmi Scholar JK Lakshmi Scholarship is available by JK Cement
+-> Open-Source Contributor at Timeschain Lab
+-> School topper in grade 10 and grade 12
+-> Solved 250+ questions on LeetCode
+
+________________________________________________________________________________________________________________________________________________________________________________________
+
